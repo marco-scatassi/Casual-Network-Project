@@ -5,13 +5,13 @@ One of the main important task in the causal framework is the ***causal discover
 
 In particular, using the tool of causal network, the discovery task became the task of identifying:
 
-- a Directed Acyclic Graph (DAG) and
-- a set of conditional probability distribution.
+1. a Directed Acyclic Graph (DAG) and
+2. a set of conditional probability distribution.
 
 These two subtasks are referred as:
 
-- structure learning
-- parameter learning
+1. structure learning
+2. parameter learning
 
 In order to justify the use of causal network we have to assume that the underlying causal process follows a probability distribution. So that, the underlying process can be represented by means of observational data sampled from the distribution.
 
