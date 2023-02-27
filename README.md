@@ -1,4 +1,4 @@
-# CasualNetworkProject
+# Structure learning in causal discovery
 One of the main important task in the causal framework is the ***causal discovery task***. The aim of which is to find the causal model underline some given observational data.
 
 In particular, using the tool of causal network, the discovery task became the task of identifying:
