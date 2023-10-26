@@ -122,3 +122,6 @@ $$LL(\mathcal{G}|x) = \log(∏_{i=1}^n ∏_{j=1}^{q_i} ∏_{k=1}^{r_i} \pi_{ik|j
 Given a dataset $D$ obtained sampling by the distribution of $X$, we can substitute $x_{ijk}$ and $\pi_{ik|j}$ with $N_{ijk}$ and $\frac{N_{ijk}}{N_{ij*}}$ respectively.
 
 So the $LL$ score function measure the likelihood of obtaining observed data $D$ if the true structure of the cuasal model is the one represented by the DAG $\mathcal{G}$.
+
+### Reference
+[1] [Marco Scutari, Claudia Vitolo, Allan Tucker. Learning Bayesian networks from big data with greedy search: computational complexity and efficient implementation, Statistics and Computing (2019) 29:1095–1108, https://doi.org/10.1007/s11222-019-09857-1]
